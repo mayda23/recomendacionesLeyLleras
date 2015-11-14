@@ -205,3 +205,4 @@ Repaso sobre las discusiones relacionadas con la Ley Lleras:
 [11]: Algunos riesgos de abuso de estos sistemas de notificación y retiro han sido advertidos internacionalmente, especialmente se ha señalado la posibilidad de su control por parte de regímenes de gobierno represivos, las iniciativas de activistas que podrían ser apaciguadas con un falso reporte, o las posibilidades existentes para ejercer actos de competencia desleal.
 
 [12]: Sentencia de la Corte Constitucional C-636 de 2009, M.P. Mauricio González Cuervo.
+gran tutorial
